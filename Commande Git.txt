@@ -1,0 +1,9 @@
+*git Bash Here
+*git status 
+*git add *
+*git checkout Dev1 (passer a une branch)
+*git commit -m "Msg" (Sauvegarder)
+*git config --global User.Name Abdel
+*git config --global User.email abderrahman.bouayad@
+*git push origin (Branche)
+*git clone https://************.git
